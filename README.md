@@ -12,7 +12,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular&logoColor=red)
 
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=Java&logoColor=white)
-![CSharp](https://img.shields.io/badge/-CSharp-%23E44D27?style=flat-square&logo=CSharp&logoColor=purple)
+![CSharp](https://img.shields.io/badge/-CSharp-%234B32C3?style=flat-square&logo=CSharp&logoColor=purple)
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&logo=php&logoColor=white)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
