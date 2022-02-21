@@ -11,8 +11,8 @@
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node&logoColor=green)
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular&logoColor=red)
 
-![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=Java&logoColor=orange)
-![C#](https://img.shields.io/badge/-C#-%23E44D27?style=flat-square&logo=c#&logoColor=purple)
+![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=Java&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-%23E44D27?style=flat-square&logo=CSharp&logoColor=purple)
 ![PHP](https://img.shields.io/badge/-PHP-%23E44D27?style=flat-square&logo=php&logoColor=blue)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
