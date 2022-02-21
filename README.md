@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Angular](https://img.shields.io/badge/-Angular-dc143c?style=flat-square&logo=Angular&logoColor=ffffff)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-800080?style=flat-square&logo=Bootstrap&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6633cc?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
@@ -20,3 +20,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-32cd32?style=flat-square&logo=MongoDB&logoColor=ffffff)
 
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
