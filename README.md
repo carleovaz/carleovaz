@@ -27,7 +27,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-32cd32?style=flat-square&logo=MongoDB&logoColor=ffffff)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
+<!--
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Carleovaz's github stats](https://github-readme-stats.vercel.app/api?username=carleovaz&show_icons=true&theme=dracula)
+-->
