@@ -1,9 +1,12 @@
 # Hello World, I'm Carlos! :wave::earth_americas:
-
+# Junior web developer
 <img src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
 
 <code>Hello stranger, wellcome to my Github profile.</code>
+<br/>
 <code>Here you will find here my evolution as programmer, works and actuals projects.</code>
+<br/>
+<code>My passions are web development:computer: and the world of video game:video_game:</code>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
