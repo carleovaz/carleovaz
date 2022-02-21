@@ -13,7 +13,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=Java&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-CSharp-%23E44D27?style=flat-square&logo=CSharp&logoColor=purple)
-![PHP](https://img.shields.io/badge/-PHP-%23E44D27?style=flat-square&logo=php&logoColor=blue)
+![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&logo=php&logoColor=blue)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
