@@ -6,7 +6,7 @@
 <br/>
 <code>Here you will find here my evolution as programmer, works and actuals projects.</code>
 <br/>
-<code>My passions are web development:computer: and the world of video game:video_game:</code>
+<code>My passions are web development</code>:computer: <code>and the world of video game</code>:video_game:
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
