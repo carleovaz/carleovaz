@@ -17,7 +17,7 @@
 ![C#](https://img.shields.io/badge/-CSharp-800080?style=flat-square&logo=C#&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-6666FF?style=flat-square&logo=PHP&logoColor=ffffff)
 
-![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=flat-square&logo=MySQL&logoColor=ffffff).
+![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-32cd32?style=flat-square&logo=MongoDB&logoColor=ffffff)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
