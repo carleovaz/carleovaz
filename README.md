@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Ajax](https://img.shields.io/badge/-Ajax-007ACC?style=flat-square&logo=Ajax&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-%232c3e50?style=flat-square&logo=node&logoColor=green)
-![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular&logoColor=red)
+![Angular](https://img.shields.io/badge/-Angular-%red?style=flat-square&logo=angular&logoColor=red)
 
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=Java&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-CSharp-%234B32C3?style=flat-square&logo=CSharp&logoColor=purple)
