@@ -2,7 +2,8 @@
 
 <img src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
 
-<code>Hello stranger, wellcome to my Github profile</code>
+<code>Hello stranger, wellcome to my Github profile.</code>
+<code>Here you will find here my evolution as programmer, works and actuals projects.</code>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
