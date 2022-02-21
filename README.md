@@ -10,5 +10,5 @@
 
 ![Java](https://img.shields.io/badge/-Java-ffa500?style=flat-square&logo=Java&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-800080?style=flat-square&logo=C#&logoColor=white)
-![PHP](https://img.shields.io/badge/-php -B3B3FF?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-800080?style=flat-square&logo=PHP&logoColor=white)
 
