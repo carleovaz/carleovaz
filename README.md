@@ -13,4 +13,5 @@
 ![PHP](https://img.shields.io/badge/-PHP-6666FF?style=flat-square&logo=PHP&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-98fb98?style=flat-square&logo=MongoDB&logoColor=white)
 
