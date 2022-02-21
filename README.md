@@ -9,4 +9,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ![Java](https://img.shields.io/badge/-Java-ffa500?style=flat-square&logo=Java&logoColor=white)
-![C#](https://img.shields.io/badge/-Csharp-800080?style=flat-square&logo=Csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-Csharp-800080?style=flat-square&logo=C#&logoColor=white)
