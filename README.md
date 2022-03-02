@@ -31,3 +31,5 @@
 ## <b>You can find me in:</b>
 - Linkedln: https://www.linkedin.com/in/carleovaz/
 
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=carleovaz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carleovaz&layout=compact&theme=dark)
