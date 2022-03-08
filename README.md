@@ -4,7 +4,7 @@
 
 <code>Hello stranger, wellcome to my Github profile.</code>
 <br/>
-<code>Here you will find here my evolution as programmer, works and actuals projects.</code>
+<code>Here you will find my evolution as programmer, works and actuals projects.</code>
 <br/>
 <code>My passions are web development</code>:computer: <code>and the world of video game</code>:video_game:
 
